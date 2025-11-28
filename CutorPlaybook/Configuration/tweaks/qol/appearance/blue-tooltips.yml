@@ -17,5 +17,4 @@ actions:
     value: 'HotTrackingColor'
     data: '0 0 0'
     type: REG_SZ
-    
-    
+
